@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="login Details">
+
+	<test name="CorrectUsername">
+		<classes>
+			<class name="dataProviderTestCase.CorrectUsername"></class>
+		</classes>
+	</test>
+</suite>
